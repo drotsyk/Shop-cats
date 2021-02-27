@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shop-cats/static/css/main.b88c3493.chunk.css",
+    "main.js": "/shop-cats/static/js/main.f24c7339.chunk.js",
+    "main.js.map": "/shop-cats/static/js/main.f24c7339.chunk.js.map",
+    "runtime-main.js": "/shop-cats/static/js/runtime-main.2669ac83.js",
+    "runtime-main.js.map": "/shop-cats/static/js/runtime-main.2669ac83.js.map",
+    "static/js/2.f2cdcd44.chunk.js": "/shop-cats/static/js/2.f2cdcd44.chunk.js",
+    "static/js/2.f2cdcd44.chunk.js.map": "/shop-cats/static/js/2.f2cdcd44.chunk.js.map",
+    "index.html": "/shop-cats/index.html",
+    "static/css/main.b88c3493.chunk.css.map": "/shop-cats/static/css/main.b88c3493.chunk.css.map",
+    "static/js/2.f2cdcd44.chunk.js.LICENSE.txt": "/shop-cats/static/js/2.f2cdcd44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2669ac83.js",
+    "static/js/2.f2cdcd44.chunk.js",
+    "static/css/main.b88c3493.chunk.css",
+    "static/js/main.f24c7339.chunk.js"
+  ]
+}
