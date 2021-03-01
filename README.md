@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 <h1>Result <a href="https://drotsyk.github.io/shop-cats/">preview<a></h1>
-
+  
+<img href="https://user-images.githubusercontent.com/43176477/109453802-fa9ee380-7a63-11eb-81e8-ac09ec8154fb.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
